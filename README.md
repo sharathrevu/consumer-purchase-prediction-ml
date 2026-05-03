@@ -8,11 +8,11 @@ The dataset is taken from Kaggle:
 https://www.kaggle.com/datasets/minahilfatima12328/consumer-shopping-trends-analysis
 
 Research Questions
-1.How accurately can machine learning models predict shopping preference
-2.Which model performs best on this dataset
-3.How preprocessing affects model performance
-4.Which features influence shopping preference the most
-5.How reliable and practical the final model is for real-world use
+1.	How accurately can machine learning models predict a customer’s shopping preference?
+2.	Which model performs the best for this dataset?
+3.	What impact does data preprocessing have on model performance?
+4.	Which features have the greatest influence on a customer’s shopping preference?
+5.	How reliable and practical is the final model for real-world use?
 
 Project Structure
 The repository is organized into three main parts:
