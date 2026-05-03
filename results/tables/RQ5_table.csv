@@ -1,0 +1,4 @@
+Scenario,Accuracy
+Standard,0.9580152671755725
+Cross Validation Mean,0.95555192102783
+With Noise,0.9563189143341815
